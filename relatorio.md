@@ -16,7 +16,7 @@ Os anúncios com faturamento premium (acima da mediana) no Centro não dependem 
 * Itens de conveniência (Secador de cabelo, Ferro de passar)
 
 **4. Estimativa de Retorno e Decisão sobre a Tese Interna**
-A tese preliminar da Seazone de focar em **compactos no Centro está validada matematicamente**.
+A tese preliminar da Seazone de focar em **apartamentos compactos (estúdios/1 quarto) no Centro está plenamente validada matematicamente**.
 * **Estimativa de Retorno (Gross Yield):** Projetando uma taxa de ocupação otimizada de 70%, o perfil de 1 Quarto no Centro entrega um ROI estimado de **12,44% ao ano**.
 * **Proteção contra Vacância:** Na baixa temporada, a diária de imóveis de 3 quartos na praia sofre uma queda brusca de quase 42%. O compacto no Centro cai apenas 27%, garantindo maior resiliência de fluxo de caixa.
 * **Liquidez:** Com 82 anúncios ativos performando bem, o Centro não representa um micro-nicho arriscado, mas sim um mercado escalável para alocação segura de capital.
